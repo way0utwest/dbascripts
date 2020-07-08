@@ -1,4 +1,4 @@
-# DBAScripts is a demo Repo
+# DBAScripts is a Demo Repo
 
 This is the fourth version of the readme file
 
