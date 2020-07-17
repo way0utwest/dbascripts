@@ -8,3 +8,9 @@ This folder contains a number of diagnostic scripts to be run against our SQL Se
 ## Admin Scripts
 - The first script gets server information
 - The second script gets instance config
+
+## References
+We can find out additional information about this repo in the following locations:
+
+- www.sqlservercentral.com
+- www.voiceofthedba.com
