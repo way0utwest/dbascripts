@@ -5,4 +5,5 @@ CREATE TABLE SaleOrderDetail (
 , Price numeric(10,4)
 , DiscountPercentage numeric(10,4)
 , fulfilled tinyint
+, TaxAmount numeric(10,4)
 )
