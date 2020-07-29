@@ -3,5 +3,6 @@ create table dbo.salesheader (
 , CustomerKey int not null
 , Active tinyint
 , SalesOrderDate datetime
+, Complete bit
 , LastUpdate datetime
 )
