@@ -4,4 +4,5 @@ create table dbo.salesheader (
 , Active tinyint
 , SalesOrderDate datetime
 , Complete bit
+, LastUpdate datetime
 )
