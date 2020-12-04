@@ -1,2 +1,3 @@
 -- Query 5
-select
+SELECT *
+ FROM sys.dmv_something
