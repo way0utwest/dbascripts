@@ -1,4 +1,4 @@
 -- Query 5
 SELECT *
  FROM sys.dmv_something
- WHERE somevalue=othervalu
+ WHERE somevalue=othervalue
