@@ -1,1 +1,1 @@
-exec sp_Blitz 1, 2, 1
+exec sp_Blitz 1, 2, 0
