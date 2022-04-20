@@ -1,6 +1,6 @@
 create view CompleteOrder
 as
-select *
+select sh.*
  from SalesOrderHeader sh
 inner join SaleOrderDetail sd
 on sh.SaleOrderKey = sd.SaleOrderKey
